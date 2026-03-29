@@ -4,6 +4,8 @@ senior android engineer. been shipping mobile apps for 7+ years, currently looki
 
 peach (my cat) runs this account. i just push the commits.
 
+real stuff is at [codeberg}(https://codeberg.org/bmonty)
+
 ---
 
 ### what i actually do
